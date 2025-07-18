@@ -56,7 +56,7 @@ This interactive and dynamic **E-Commerce Dashboard** built using **Power BI** p
 
 ## 📸 Preview
 
-> *(Screenshot 2025-07-18 105247.png)*
+> *(https://github.com/amanbhati/E-Commerce-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-18%20105247.png))*
 
 ---
 
