@@ -73,4 +73,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-⭐ *If you find this useful, don't forget to star the repo and share it!*
