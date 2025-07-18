@@ -47,16 +47,16 @@ This interactive and dynamic **E-Commerce Dashboard** built using **Power BI** p
 
 ## 🎯 Use Cases
 
-- E-commerce Business Owners
-- Data Analysts in Retail Domain
-- Marketing & Sales Strategy Teams
+- E-commerce Business Owners  
+- Data Analysts in Retail Domain  
+- Marketing & Sales Strategy Teams  
 - Inventory Management Teams
 
 ---
 
 ## 📸 Preview
 
-> !(https://github.com/amanbhati/E-Commerce-Dashboard-Power-BI-/blob/d199b266e46293f40034a0d9a8e3d8c528e0e6db/Screenshot%202025-07-18%20105247.png)
+![Dashboard Screenshot](https://github.com/amanbhati/E-Commerce-Dashboard-Power-BI-/raw/d199b266e46293f40034a0d9a8e3d8c528e0e6db/Screenshot%202025-07-18%20105247.png)
 
 ---
 
@@ -71,5 +71,6 @@ This project is licensed under the [MIT License](LICENSE).
 **Aman Kumar Bhati**  
 📧 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🌐 [Portfolio/Website](https://your-portfolio.com)
 
+---
 
-
+⭐ *If you find this useful, don't forget to star the repo and share it!*
