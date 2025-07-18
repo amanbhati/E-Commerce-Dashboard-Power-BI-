@@ -56,7 +56,7 @@ This interactive and dynamic **E-Commerce Dashboard** built using **Power BI** p
 
 ## 📸 Preview
 
-> *(Add screenshots or GIFs of the dashboard here for better appeal)*
+> *(Screenshot 2025-07-18 105247.png)*
 
 ---
 
@@ -71,7 +71,5 @@ This project is licensed under the [MIT License](LICENSE).
 **Aman Kumar Bhati**  
 📧 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🌐 [Portfolio/Website](https://your-portfolio.com)
 
----
 
-## ⭐ Star this repo if you like the dashboard!
 
